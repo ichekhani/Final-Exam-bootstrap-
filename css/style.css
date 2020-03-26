@@ -1,0 +1,43 @@
+.header {background-color:#000000;}
+body {background-color:#000000;}
+.day-horoscope {background-color:#000000;}
+.logo img {width:150px;}
+.logo img:hover {opacity: 0.7;}
+.navigation-a {margin-right:20px; list-style: none; color:Black;}
+.zodiac-icon img {margin-top:30px; margin-bottom:15px;}
+.zodiac-icon img {width:60%; }
+.zodiac-icon img:hover {opacity: 0.5;}
+.nino {font-family: bpg nino mtavruli;}
+.glaho {font-family: bpg Glaho;}
+/* .caps {font-family:BPG Mrgvlovani Caps 2010;} */
+.arial {font-family: BPG Mrgvlovani Caps 2010;}
+.astro-blog { border-bottom:2px solid; width:24%; font-size:30px;}
+.newsbox {max-width: 285px; margin-right:20px; width:100%; border: 4px solid rgba(28,110,164,0.22); }
+.newsbox img {width:100%; }
+.newsbox img:hover {opacity: 0.8;}
+.a-text-dec {color:black;}
+.newsboxin img {max-width: 1140px ; width:100%; max-height:500px; }
+.p-title {font-size:40px; }
+.zodiacsize {font-size:20px;  font-weight: bold;}
+.newsboxin {border:1px dotted white}
+.img-zodiac {max-width:400px; width:100%;}
+li {list-style: none;}
+.day-horo {border:0.5px dotted white;}
+.bg-orange {background-color:#000000;}
+/* Colors */
+p {color:#ffffff;} 
+h3{color:#ffffff;}
+h4 {color:#ffffff;}
+h5 {color:#ffffff;}
+h6 {color:#ffffff;}
+h2 {color:#ffffff;}
+h1 {color:#ffffff;}
+/* Colors */
+.div-stick {width:1px; height:auto; background-color:#ffffff;}
+.social img {width:30px; margin-right:10px; margin-left:10px; flex-wrap: wrap;}
+.social img:hover {opacity: 0.5;}
+.load-more {text-align: center; margin:19px 0; cursor: pointer;}
+.load-more:hover {opacity: 0.8; color:lightblue}
+
+div {color:white}
+.gmap {max-width:800px; width:100%; height: 400px;}
